@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmanSahu-Dev
+- 👋 Hi, I’m Aman Sahu
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C, Java ,python ,DSA & Web Devlopment.
 - 📫 How to reach me - amansahu.dev@gmail.com
