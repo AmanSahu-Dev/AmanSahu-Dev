@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aman Sahu
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C, Java ,python ,DSA & Web Devlopment.
+- I'm currently studying in Atria Institute of Technology , Banglore. 
 - 📫 How to reach me - amansahu.dev@gmail.com
 -  Contact - 7828737234
